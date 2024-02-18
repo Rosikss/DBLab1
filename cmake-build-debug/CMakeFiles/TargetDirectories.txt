@@ -1,0 +1,3 @@
+C:/Users/rosny/CLionProjects/File_DB46/cmake-build-debug/CMakeFiles/File_DB.dir
+C:/Users/rosny/CLionProjects/File_DB46/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rosny/CLionProjects/File_DB46/cmake-build-debug/CMakeFiles/rebuild_cache.dir
